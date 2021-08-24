@@ -1,10 +1,6 @@
-# Kaggle  
- ML-regression, DL-categorical, CNN-categorical.
-<br/>
-
-
+# Kaggle:  ML-regression, DL-categorical, CNN-categorical.
 應用人工智慧模型：機器學習-回歸，深度學習-分類，卷積神經網路-分類。
-<br/>Put the knowledge to prectice:
+<br/>
 <br/>
 <br/>
 <br/>
